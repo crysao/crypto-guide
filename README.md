@@ -66,3 +66,27 @@ The choice of a specific token and network depends on goals, risk tolerance and 
 
 ### Which wallet to choose?
 If you plan to store large sums - a cold Ledger/Trezor/Tangem, if you often sell/buy/exchange cryptocurrency for fiat, work with little-known meme tokens - an exchange wallet _(for example, Binance, however KYC - identity verification will be required)_, for small/medium sums and most users, a hot non-custodial wallet will be suitable _(Trust Wallet, Metamask and others)_
+
+1. **Install Trust Wallet from your app store**
+2. **In the welcome window, select "Create a new wallet":**
+
+   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust1.png" width="300" alt="trust1">
+3. **The wallet will be successfully created _(if desired, you can top it up right away)_:**
+
+   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust2.png" width="300" alt="trust2">
+4. **Next, you land in the main menu of the wallet, where you need to tap the button in the upper-left corner "Main wallet":**
+
+   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust3.png" width="300" alt="trust3">
+5. **In the window that opens, choose to copy the seed phrase "manually", write the seed phrase down on a piece of paper, and then pass a short check of whether the seed phrase was written down correctly _(you will need to specify the 1st, 4th, 7th and 10th words from the phrase)_:**
+
+   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust4.png" width="300" alt="trust4">
+# Security. Fraud
+The most important rule to remember is that the private key and/or seed phrase give **full access** to all your tokens. **Under no circumstances should they be shown to anyone, stored in notes on your phone/messengers/screenshots, or entered on any websites _(except for verified browser extensions like Metamask)_**. The best way to store them is a physical written record on a piece of paper kept in safe places _(possibly even in several copies)_. For large sums, as mentioned earlier, it is worth looking into cold wallets
+
+Even if you store your tokens on a cold wallet / wrote down the seed phrase on paper, responsibly hid it and never showed it to anyone, scammers still have ways to steal your funds _(although not all of them apply to cold wallets)_. Fake exchange/exchanger/wallet websites and other resources pose a danger. When following links, you should double-check the spelling of the domain several times _(for example, whether it is really metamask.io, and not some metamask.cc or metama.sk)_. You should not connect your main wallets to suspicious applications; it is better to use a second wallet with a tiny balance or even create a new empty one. There are malicious scripts — **drainers**, which are a common and dangerous type of fraud in the cryptocurrency space. Scammers trick you into signing a transaction that may outwardly look like receiving a free NFT or airdrop. After the transaction is signed, the scammers gain full access to your funds and instantly withdraw them
+
+As a result, a safe setup would be a **cold wallet**, on which most of the sum is stored, a **hot wallet** used for staking/other safe operations, whose seed phrase is saved physically and hidden in a safe place, an **exchange account** (if desired) for buying cryptocurrency with fiat, and a **second hot wallet** for risky operations
+
+(Guide is a work in progress...)
+
+[If the guide turned out to be useful](https://github.com/crysao/crysao/blob/main/tips.md)
