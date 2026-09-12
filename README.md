@@ -27,17 +27,17 @@ The operation of the blockchain begins with the user creating a transaction _(fo
 **Bitcoin** is a decentralized digital monetary system and the first cryptocurrency, created by Satoshi Nakamoto in 2009. Its key feature is limited emission of 21 million BTC and the absence of a single issuer: the issuance of new coins and transaction processing are regulated by the protocol. To protect the Bitcoin network, it uses the Proof of Work mechanism, in which miners solve computational problems and receive rewards for adding new blocks. Network rules: the longest chain _(with the greatest accumulated work)_ is considered true; if two miners find a block at the same time, the network temporarily forks, but then the longer branch is chosen; to change history, an attacker would need to control more than 50% of computing power, which is economically unprofitable. Thanks to this, Bitcoin can function as an independent system for transferring and storing value, not requiring trust in a particular bank or state
 
 ## The most well-known blockchain networks at the moment:
-- [Ethereum (ETH)](https://ethereum.org/ru/) - the main network for smart contracts and decentralized applications (dApps). Most projects in the field of finance (DeFi) and NFT are launched on it
-- [Bitcoin (BTC)](https://bitcoin.org/ru/) - the first and most reliable cryptocurrency network. It works as digital gold and a means of saving capital
-- [Solana (SOL)](https://solana.com/ru/) - a high-performance network with high throughput. It is popular due to high transaction speed, low fees and meme tokens
+- [Ethereum (ETH)](https://ethereum.org/) - the main network for smart contracts and decentralized applications (dApps). Most projects in the field of finance (DeFi) and NFT are launched on it
+- [Bitcoin (BTC)](https://bitcoin.org/) - the first and most reliable cryptocurrency network. It works as digital gold and a means of saving capital
+- [Solana (SOL)](https://solana.com/) - a high-performance network with high throughput. It is popular due to high transaction speed, low fees and meme tokens
 - [Tron (TRX)](https://tron.network/) - a blockchain platform created for fast and inexpensive transactions and the operation of decentralized applications. It is especially known for the use of USDT on the TRON network (TRC-20), thanks to which the network is widely used for stablecoin transfers
 - [Ton (TON)](https://ton.org/) - a cryptocurrency network focused on high speed, scalability and cheap transactions, closely integrated with the Telegram ecosystem
 
 ### Commonly used tokens:
 - [USDT (Tether)](https://tether.to/en/) — the largest stablecoin, whose value is pegged to the US dollar. Widely used for transfers, trading and storing funds in cryptocurrency
 - [USDC (Circle)](https://www.usdc.com/) - a stablecoin also aimed at maintaining a rate around 1 dollar. Often used in DeFi and cryptocurrency payments
-- [ETH](https://ethereum.org/ru/) — this is the native cryptocurrency of the Ethereum network, performing the role of "fuel" for the entire ecosystem _(payment of fees for transfers (gas), staking)_
-- [SOL](https://solana.com/ru/) — the native token of the Solana network, necessary for paying transactions and operating applications on the blockchain
+- [ETH](https://ethereum.org/) — this is the native cryptocurrency of the Ethereum network, performing the role of "fuel" for the entire ecosystem _(payment of fees for transfers (gas), staking)_
+- [SOL](https://solana.com/) — the native token of the Solana network, necessary for paying transactions and operating applications on the blockchain
 - [TRX](https://tron.network/) — the main cryptocurrency of the TRON network, used to pay fees and conduct operations, including with TRC-20 tokens
 - [GRAM](https://ton.org/) - the native token of The Open Network, used to pay fees, transfers and interact with applications of the TON ecosystem
 
