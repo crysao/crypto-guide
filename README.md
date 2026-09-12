@@ -9,7 +9,7 @@
 2. [**How blockchain works in simple terms**](https://github.com/crysao/crypto-guide#how-blockchain-works-in-simple-terms)
 3. [**Bitcoin and other well-known coins, blockchain networks**](https://github.com/crysao/crypto-guide#bitcoin-and-other-well-known-coins-blockchain-networks)
 4. [**Types of wallets. Choosing and creating your first wallet**](https://github.com/crysao/crypto-guide#types-of-wallets-choosing-and-creating-your-first-wallet)
-5. [**Безопасность. Мошенничество**](https://github.com/crysao/crypto-guide#)
+5. [**Security. Fraud**](https://github.com/crysao/crypto-guide#security-fraud)
 
 # What is cryptocurrency. Basic concepts
 **Cryptocurrency** is a digital currency that has no physical form _(banknotes, coins)_ and no single central bank, while the security of transactions with it _(transfer of digital assets from one wallet to another)_ is ensured through encryption.
@@ -70,16 +70,16 @@ If you plan to store large sums - a cold Ledger/Trezor/Tangem, if you often sell
 1. **Install Trust Wallet from your app store**
 2. **In the welcome window, select "Create a new wallet":**
 
-   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust1.png" width="300" alt="trust1">
+   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust1.jpg" width="300" alt="trust1">
 3. **The wallet will be successfully created _(if desired, you can top it up right away)_:**
 
-   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust2.png" width="300" alt="trust2">
+   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust2.jpg" width="300" alt="trust2">
 4. **Next, you land in the main menu of the wallet, where you need to tap the button in the upper-left corner "Main wallet":**
 
-   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust3.png" width="300" alt="trust3">
-5. **In the window that opens, choose to copy the seed phrase "manually", write the seed phrase down on a piece of paper, and then pass a short check of whether the seed phrase was written down correctly _(you will need to specify the 1st, 4th, 7th and 10th words from the phrase)_:**
+   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust3.jpg" width="300" alt="trust3">
+5. **In the window that opens, choose to copy the seed phrase "Manual", write the seed phrase down on a piece of paper, and then pass a short check of whether the seed phrase was written down correctly _(you will need to specify the 1st, 4th, 7th and 10th words from the phrase)_:**
 
-   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust4.png" width="300" alt="trust4">
+   <img src="https://github.com/crysao/crypto-guide/blob/main/img/trust4.jpg" width="300" alt="trust4">
 # Security. Fraud
 The most important rule to remember is that the private key and/or seed phrase give **full access** to all your tokens. **Under no circumstances should they be shown to anyone, stored in notes on your phone/messengers/screenshots, or entered on any websites _(except for verified browser extensions like Metamask)_**. The best way to store them is a physical written record on a piece of paper kept in safe places _(possibly even in several copies)_. For large sums, as mentioned earlier, it is worth looking into cold wallets
 
